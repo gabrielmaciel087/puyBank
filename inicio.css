@@ -1,0 +1,91 @@
+#cabecalho{
+    height: 75px;
+    width: 1575px;
+    background-color: #4ABB11;
+    color: white;
+    position: fixed;
+}
+#icon{
+    width: 150px;
+    height: 70px;
+}
+#tabela1{
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 100%;
+}
+#login{
+    width: 30%;
+    text-align: right;
+    padding-right: 20px;
+}
+#cadastro{
+    padding-right: 20px;
+}
+#fundo{
+    width: 1575px;
+    height: 800px;
+    background-image: url("https://capitalist.com.br/wp-content/uploads/2021/02/fintech.png");
+}
+#tabela2{
+    text-align: center;
+    color: white;
+    width: 50%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.linha{
+    height: 300px;
+}
+#conteudo{
+    width: 1575px;
+    background-color: #4ABB11;
+    color: white;
+}
+.conta{
+    height: 500px;
+    font-size: 40px;
+}
+#tabela3{
+    width: 100%;
+    height: 500px;
+    text-align: left;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#cartaoimg{
+    width: 229px;
+    height: 145px;
+    border-radius: 5px;
+    margin-right: 200px;
+}
+#contaimg{
+    width: 250px;
+    height: 400px;
+}
+.coluna{
+    padding-left: 4cm;
+}
+#fundo2{
+    width: 1575px;
+    height: 800px;
+    background-repeat: no-repeat;
+    background-image: url("person_using_smartphone-2.jpg");
+}
+#tabela4{
+    width: 100%;
+    height: 800px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+a:link{
+    color: white;
+}
+a:hover{
+    color: white;
+}
+a:visited{
+    color: white;
+}
+a{
+    text-decoration: none;
+}
